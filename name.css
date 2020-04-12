@@ -1,0 +1,32 @@
+#main {
+    background-color: hsl(252, 3, 37);
+    display: grid;
+    justify-items: center;
+    font-family: arial;
+  }
+  
+  #tribute-info {
+    color: hsl(252, 10, 70);
+  }
+  
+  #image {
+    justify-self: start;
+    border: 1px solid black;
+    max-width: 100%;
+    height:auto;
+    display: block;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    color: hsl(252, 10, 80);
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: cambria;
+    color: hsl(252, 10, 75);
+    border: 1px solid black;
+  }
